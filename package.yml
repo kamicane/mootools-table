@@ -1,0 +1,20 @@
+name: Table
+
+web: [mad4milk.net](http://mad4milk.net)
+
+description: LUA-Style Table implementation in plain JavaScript
+
+authors: [Valerio Proietti](http://mad4milk.net)
+
+license: [MIT License](http://mootools.net/license.txt)
+
+copyright: &copy; [Valerio Proietti](http://mad4milk.net)
+
+author: kamicane
+
+category: Types
+
+tags: [data, structure]
+
+sources:
+  - "Source/Table.js"
